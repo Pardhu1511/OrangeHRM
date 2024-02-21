@@ -1,0 +1,48 @@
+package com.StepDefinations;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class User_Defined_methods {
+	
+	public WebDriver driver;
+	
+	@Given("User Should open Browser in the system")
+	public void user_should_open_browser_in_the_system() {
+		System.setProperty("webdriver.chrome.driver", "./BrowserDriverFiles/chromedriver.exe");
+		driver = new ChromeDriver();
+
+		// System.out.println(" **** Chrome Browser Launched Successfully ********** ");
+		
+		
+	}
+
+	@When("User enters OrangeHRM application URL Address")
+	public void user_enters_orange_hrm_application_url_address() {
+		driver.get("http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login");
+
+		//System.out.println(" Successfully Navigated to OrangeHRM Application LogIn Page ");
+		
+
+		driver.manage().window().maximize();
+	   
+	}
+
+	@Then("User should be Navigated to the OrangeHRM loginPage")
+	public void user_should_be_navigated_to_the_orange_hrm_login_page() {
+	    
+		System.out.println("login page");
+	}
+
+	@Then("User should close the OrangeHRM application Along with Browser")
+	public void user_should_close_the_orange_hrm_application_along_with_browser() {
+		
+		System.out.println("validation");
+	    
+	}
+
+}

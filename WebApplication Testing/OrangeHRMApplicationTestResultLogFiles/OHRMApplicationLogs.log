@@ -1,0 +1,19 @@
+[main] INFO Log - Chrome launced successfully
+[main] INFO Log - Chrome launced successfully
+[main] INFO Log - The Expected OrangeHrm Title is :-OrangeHRM
+[main] INFO Log - Succesfully Navigated to the login page :- PASS
+[main] INFO Log - The expected OrangeHRM Url Address :-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - The actual OrangeHRM Url Address :-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Successfully Navigated to LoginPage Url Address :- PASS
+[main] INFO Log - The expected title of the login panel :-LOGIN Panel
+[main] INFO Log - The actual title of the login panel :-LOGIN Panel
+[main] INFO Log - Successfully Navigated to login page text :- PASS
+[main] INFO Log - Chrome launced successfully
+[main] INFO Log - The Expected OrangeHrm Title is :-OrangeHRM
+[main] INFO Log - Succesfully Navigated to the login page :- PASS
+[main] INFO Log - The expected OrangeHRM Url Address :-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - The actual OrangeHRM Url Address :-http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login
+[main] INFO Log - Successfully Navigated to LoginPage Url Address :- PASS
+[main] INFO Log - The expected title of the login panel :-LOGIN Panel
+[main] INFO Log - The actual title of the login panel :-LOGIN Panel
+[main] INFO Log - Successfully Navigated to login page text :- PASS

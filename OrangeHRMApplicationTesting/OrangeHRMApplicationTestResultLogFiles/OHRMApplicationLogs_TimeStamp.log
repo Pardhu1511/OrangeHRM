@@ -1,0 +1,307 @@
+2024-02-19 17:58:35,957 - Log -INFO - ChromeBrowser Launched Successfully
+2024-02-19 17:58:37,099 - Log -INFO - Successfully Provide OrangeHrm application Url Address on the browser
+2024-02-19 17:58:37,393 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-19 17:58:37,406 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-19 17:58:37,410 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-19 18:01:03,245 - Log -INFO - ChromeBrowser Launched Successfully
+2024-02-19 18:01:03,784 - Log -INFO - Successfully Provide OrangeHrm application Url Address on the browser
+2024-02-19 18:01:03,966 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-19 18:01:03,974 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-19 18:01:03,978 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-19 18:02:14,227 - Log -INFO - ChromeBrowser Launched Successfully
+2024-02-19 18:02:14,948 - Log -INFO - Successfully Provide OrangeHrm application Url Address on the browser
+2024-02-19 18:02:15,088 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-19 18:02:15,107 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-19 18:02:15,119 - Log -INFO - Fail to identify to the OrangeHRM Login Page Title :- FAIL
+2024-02-19 18:04:56,983 - Log -INFO - ChromeBrowser Launched Successfully
+2024-02-19 18:04:57,720 - Log -INFO - Successfully Provide OrangeHrm application Url Address on the browser
+2024-02-19 18:04:57,905 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-19 18:04:57,915 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-19 18:04:57,919 - Log -INFO - Fail to identify to the OrangeHRM Login Page Title :- FAIL
+2024-02-19 18:05:42,902 - Log -INFO - ChromeBrowser Launched Successfully
+2024-02-19 18:05:43,314 - Log -INFO - Successfully Provide OrangeHrm application Url Address on the browser
+2024-02-19 18:05:43,529 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-19 18:05:43,552 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-19 18:05:43,561 - Log -INFO - Successfully identify the OrangeHRM Login Page Title :- PASS
+2024-02-20 16:05:54,150 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:05:54,538 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:05:54,661 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:05:54,673 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:05:54,675 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:05:55,826 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:05:56,195 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:05:56,321 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:05:56,329 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:05:56,331 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:05:57,500 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:05:57,763 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:05:57,942 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:05:57,952 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:05:57,955 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:05:59,131 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:05:59,348 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:05:59,595 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:05:59,603 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:05:59,605 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:13:45,112 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:13:45,436 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:13:45,574 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:13:45,587 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:13:45,591 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:13:47,416 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:13:47,737 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:13:47,904 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:13:47,913 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:13:47,915 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:13:49,168 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:13:49,443 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:13:49,564 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:13:49,571 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:13:49,573 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:13:50,670 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:13:50,983 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:13:51,160 - Log -INFO - Expected OrangeHRM Title is :- Orange HRM
+2024-02-20 16:13:51,169 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:13:51,171 - Log -INFO - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+2024-02-20 16:14:23,927 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:14:24,143 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:14:24,314 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-20 16:14:24,325 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:14:24,328 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-20 16:14:26,139 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:14:26,474 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:14:26,606 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-20 16:14:26,617 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:14:26,621 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-20 16:14:27,767 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:14:28,007 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:14:28,187 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-20 16:14:28,194 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:14:28,196 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-20 16:14:29,326 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-20 16:14:29,630 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-20 16:14:29,758 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-20 16:14:29,768 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-20 16:14:29,771 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 12:38:11,499 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 12:38:12,585 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 12:38:12,735 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 12:38:12,755 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 12:38:12,762 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 12:38:14,861 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 12:38:15,358 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 12:38:15,568 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 12:38:15,588 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 12:38:15,594 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 12:38:17,929 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 12:38:18,377 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 12:38:18,573 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 12:38:18,587 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 12:38:18,595 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 12:38:20,556 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 12:38:21,032 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 12:38:21,243 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 12:38:21,260 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 12:38:21,267 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 18:57:33,814 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 18:57:34,685 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 18:57:34,818 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 18:57:34,825 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 18:57:34,827 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 18:57:36,572 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 18:57:37,034 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 18:57:37,155 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 18:57:37,164 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 18:57:37,166 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 18:57:38,900 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 18:57:39,284 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 18:57:39,420 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 18:57:39,437 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 18:57:39,447 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 18:57:41,108 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 18:57:41,598 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 18:57:41,733 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 18:57:41,754 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 18:57:41,765 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:00:09,543 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:00:09,875 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:00:10,000 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:00:10,006 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:00:10,009 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:00:11,745 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:00:12,184 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:00:12,314 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:00:12,322 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:00:12,324 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:00:13,984 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:00:14,426 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:00:14,548 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:00:14,555 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:00:14,558 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:00:16,284 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:00:16,750 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:00:16,874 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:00:16,884 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:00:16,887 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:39:29,307 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:39:29,945 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:39:31,053 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:39:31,680 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:39:32,777 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:39:33,420 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:39:34,519 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:39:35,160 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:48:14,242 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:48:14,722 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:48:14,852 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:48:14,858 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:48:14,860 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:48:16,635 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:48:17,107 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:48:17,237 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:48:17,244 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:48:17,247 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:48:24,539 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:48:24,835 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:48:24,956 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:48:24,964 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:48:24,967 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:48:27,132 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:48:27,577 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:48:27,700 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:48:27,712 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:48:27,716 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:48:29,324 - Log -INFO -  **** Chrome Browser Launched Successfully ********** 
+2024-02-21 19:48:29,791 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIn Page 
+2024-02-21 19:48:29,912 - Log -INFO - Expected OrangeHRM Title is :- OrangeHRM
+2024-02-21 19:48:29,923 - Log -INFO - Actual Orange HRM Title is :-OrangeHRM
+2024-02-21 19:48:29,927 - Log -INFO - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+2024-02-21 19:50:15,409 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:50:16,041 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:50:17,133 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:50:17,793 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:50:18,882 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:50:19,501 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:50:20,583 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:50:21,202 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:50:22,284 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:50:22,914 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:52:01,125 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:52:01,811 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:52:02,917 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:52:03,557 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:52:04,664 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:52:05,301 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:52:06,413 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:52:07,051 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 19:52:08,163 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 19:52:08,795 - Log -INFO -  **** Browser Closed With Application Successfully ********
+2024-02-21 20:22:06,825 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:22:08,128 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:22:09,137 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:22:09,274 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:09,292 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:09,303 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:10,771 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:22:11,980 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:22:13,136 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:22:13,584 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:22:13,784 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:13,798 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:13,801 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:21,475 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:21,493 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:21,502 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:23,065 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:22:24,264 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:22:25,439 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:22:25,844 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:22:25,975 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:25,990 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:25,996 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:33,755 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:33,772 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:33,778 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:35,374 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:22:36,558 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:22:37,762 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:22:38,267 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:22:38,398 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:38,412 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:38,418 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:40,366 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:22:41,538 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:22:42,740 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:22:43,301 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:22:43,482 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:43,507 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:43,517 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:44,944 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:22:46,107 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:22:47,364 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:22:47,971 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:22:48,112 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:48,127 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:22:48,134 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:22:50,198 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:29:09,299 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:29:10,732 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:29:11,580 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:29:11,733 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:11,750 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:11,759 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:13,129 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:29:14,312 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:29:15,486 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:29:16,095 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:29:16,238 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:16,251 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:16,257 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:23,993 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:24,005 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:24,010 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:25,379 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:29:26,563 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:29:27,816 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:29:28,274 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:29:28,454 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:28,464 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:28,468 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:36,024 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:36,039 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:36,045 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:37,649 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:29:38,833 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:29:40,018 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:29:40,463 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:29:40,593 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:40,608 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:40,616 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:42,524 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:29:43,697 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:29:44,886 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:29:45,310 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:29:45,445 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:45,465 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:45,474 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:46,821 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 20:29:47,998 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 20:29:49,291 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 20:29:49,799 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 20:29:49,930 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:49,943 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 20:29:49,949 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 20:29:51,666 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 21:12:32,915 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 21:12:34,587 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 21:12:35,338 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 21:12:35,701 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 21:12:35,720 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 21:12:35,726 - Log -INFO - succesfully navigated to home page Title-PASS
+2024-02-21 21:12:37,150 - Log -INFO - *********** chrome Browser got closed **********
+2024-02-21 21:12:38,628 - Log -INFO -  *** Chrome Browser launched Successfully *****
+2024-02-21 21:12:40,177 - Log -INFO - ###########ChromeBrowser launched successfully##############
+2024-02-21 21:12:40,869 - Log -INFO - Successfully navigated to OrangeHRM Application URL Address on the Browser
+2024-02-21 21:12:40,998 - Log -INFO - The expected orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 21:12:41,009 - Log -INFO - The actual orangeHRM Application home page title is :-OrangeHRM
+2024-02-21 21:12:41,013 - Log -INFO - succesfully navigated to home page Title-PASS

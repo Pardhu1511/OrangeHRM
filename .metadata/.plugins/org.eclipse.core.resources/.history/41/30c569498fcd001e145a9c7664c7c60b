@@ -1,0 +1,14 @@
+package com.BaseTest;
+
+import org.openqa.selenium.WebDriver;
+
+public class BaseTest {
+ WebDriver driver;
+String applicationURLAddresss="";
+
+public void setup()
+{
+	System.setProperty(applicationURLAddresss, applicationURLAddresss)
+}
+
+}

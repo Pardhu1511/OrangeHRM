@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRMApplication]">
+  <test thread-count="5" name="LogInTest(failed)">
+    <classes>
+      <class name="com.OrangeHRMApplication.loginandlogout">
+        <methods>
+          <include name="looginTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.OrangeHRMApplication.loginandlogout -->
+    </classes>
+  </test> <!-- LogInTest(failed) -->
+</suite> <!-- Failed suite [OrangeHRMApplication] -->

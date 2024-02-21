@@ -1,0 +1,20 @@
+Feature: OrangeHRM Application Functinality Testin
+Scenario: Validating OrangeHRM Application LoginPage
+Given User Should open Browser in the system
+When User enters OrangeHRM application URL Address
+Then User should be Navigated to the OrangeHRM loginPage
+Then User should close the OrangeHRM application Along with Browser 
+    
+ Scenario Outline: Validating OrangeHRM Application Login Functionality with Multiple TestData
+Given User Should open Browser in the system
+When User enters OrangeHRM application URL Address
+Then User should be Navigated to the OrangeHRM loginPage
+Then User Should enter "<userName>" and "<passWord>" and the click on login button
+Then User should navigated to OrangeHRM Application Homepage
+Then User should navigated to Welcome admin and click on logout
+Then User should close the OrangeHRM application Along with Browser 
+ Examples: | userName   | passWord     |
+           | Pardhu1998 | Livetech@123 | 
+           | Pardhu1998 | Cucumber     | 
+           | Cucumber   | Livetech@123 | 
+           | Pardhu1998 | Livetech@123 | 

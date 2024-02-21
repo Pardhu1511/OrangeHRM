@@ -1,0 +1,11 @@
+package com.EchoEchoApplicationRadioButtons;
+
+import com.BaseTest.BaseTest;
+
+public class RadioButtonsTesting extends BaseTest{
+	public void group1RadioButtons()
+	{
+		
+	}
+
+}

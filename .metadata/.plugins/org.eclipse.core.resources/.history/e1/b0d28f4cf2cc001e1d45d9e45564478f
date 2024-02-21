@@ -1,0 +1,55 @@
+package com.EchoEchoApplicationRadioButtons;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+import java.util.List;
+
+import com.BaseTest.BaseTest;
+
+public class TotalRadiButtonsTesting  extends BaseTest{
+	//<input type="radio" name="group1" value="Milk">
+			//<input type="radio" name="group1" value="Butter" checked="">
+			//<input type="radio" name="group1" value="Cheese">
+			
+			//<input type="radio" name="group2" value="Water">
+			//<input type="radio" name="group2" value="Beer">
+			//<input type="radio" name="group2" value="Wine" checked="">
+	
+	
+
+	    
+	    @Test
+	    public void RadioButtonsTesting() {
+	        // Locate group 1 radio buttons
+	        List<WebElement> group1RadioButtons = driver.findElements(By.name("group1"));
+
+	        // Iterate through group 1 radio buttons
+	        for (WebElement radioButton : group1RadioButtons) {
+	            // Get the value of the radio button
+	            String value = radioButton.getAttribute("value");
+	            // Click on the radio button
+	            radioButton.click();
+	            // Print the value and checked status
+	            System.out.println("Group 1 - Value: " + value + " | Checked: " + radioButton.isSelected());
+
+	            // Locate group 2 radio buttons
+	            List<WebElement> group2RadioButtons = driver.findElements(By.name("group2"));
+
+	            // Iterate through group 2 radio buttons
+	            for (WebElement radioButton2 : group2RadioButtons) {
+	                // Get the value of the radio button
+	                String value2 = radioButton2.getAttribute("value");
+	                // Click on the radio button
+	                radioButton2.click();
+	                // Print the value and checked status
+	                System.out.println("Group 2 - Value: " + value2 + " | Checked: " + radioButton2.isSelected());
+	            }
+	        }
+	        {  }
+	        }
+	        }
+	    }
+	    
+	    
+
+

@@ -1,0 +1,51 @@
+2024-02-17 18:25:14,255 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 19:31:58,741 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 19:31:59,254 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 19:32:00,126 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 19:36:10,309 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 19:36:10,710 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 19:36:11,637 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 19:40:48,000 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 19:40:48,448 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 19:40:48,608 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 19:40:48,660 - Log -INFO - The Actual Text of the Login PanelLOGIN Panel
+2024-02-17 19:40:48,670 - Log -INFO - Login Panel Text Validation Successful :- PASS
+2024-02-17 19:44:03,208 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 19:44:03,592 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 19:44:03,809 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 19:44:03,865 - Log -INFO - The Actual Text of the Login PanelLOGIN Panel
+2024-02-17 19:44:03,869 - Log -INFO - Login Panel Text Validation Successful :- PASS
+2024-02-17 19:44:04,529 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully
+2024-02-17 20:18:25,922 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 20:18:26,357 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 20:18:26,530 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 20:18:26,573 - Log -INFO - The Actual Text of the Login PanelLOGIN Panel
+2024-02-17 20:18:26,575 - Log -INFO - Login Panel Text Validation Successful :- PASS
+2024-02-17 20:18:27,249 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully
+2024-02-17 20:20:17,209 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 20:20:17,731 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 20:20:17,963 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 20:20:18,016 - Log -INFO - The Actual Text of the Login PanelLOGIN Panel
+2024-02-17 20:20:18,019 - Log -INFO - Login Panel Text Validation Successful :- PASS
+2024-02-17 20:20:18,103 - Log -INFO - OrangeHRM Application Login Page Logo Found :- PASS
+2024-02-17 20:20:18,795 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully
+2024-02-17 23:01:58,944 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 23:01:59,499 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:01:59,650 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 23:01:59,692 - Log -INFO - The Actual Text of the Login PanelLOGIN Panel
+2024-02-17 23:01:59,700 - Log -INFO - Login Panel Text Validation Successful :- PASS
+2024-02-17 23:01:59,788 - Log -INFO - OrangeHRM Application Login Page Logo Found :- PASS
+2024-02-17 23:02:00,457 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully
+2024-02-17 23:07:43,444 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 23:07:44,022 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:07:44,178 - Log -INFO - The Expected Text of the Login PanelLOGIN Panel
+2024-02-17 23:07:44,208 - Log -INFO - The Actual Text of the Login PanelLOGIN Panel
+2024-02-17 23:07:44,210 - Log -INFO - Login Panel Text Validation Successful :- PASS
+2024-02-17 23:07:44,883 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully
+2024-02-17 23:07:46,075 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 23:07:46,524 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:07:46,726 - Log -INFO - OrangeHRM Application Login Page Logo Found :- PASS
+2024-02-17 23:07:47,394 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully
+2024-02-17 23:07:48,562 - Log -INFO - Chrome Browser Launched Successfully
+2024-02-17 23:07:48,901 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:07:50,049 - Log -INFO - ChromeBrowser along with OrangeHRM application closed Successfully

@@ -1,0 +1,10 @@
+io.cucumber.junit.UndefinedStepException: The step 'User should navigated to OrangeHRM Application Homepage' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("User should navigated to OrangeHRM Application Homepage")
+public void user_should_navigated_to_orange_hrm_application_homepage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

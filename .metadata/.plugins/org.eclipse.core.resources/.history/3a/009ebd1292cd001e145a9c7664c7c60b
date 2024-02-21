@@ -1,0 +1,27 @@
+package com.BaseTest;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+import jdk.internal.org.jline.utils.Log;
+
+public class BaseTest {
+ WebDriver driver;
+String applicationURLAddresss="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+@Test
+public void setup() throws InterruptedException
+{
+	System.setProperty("webdriver.chrome.driver", "./BrowserDriverFiles/chromedriver.exe");
+	driver = new ChromeDriver();
+	driver.get(applicationURLAddresss);
+	Log.info("Chrome Browser Launched Successfully");
+	driver.manage().window().maximize();
+	Thread.sleep(10000);
+}
+@Test
+public void teardown()
+{
+	driver.quit();
+}
+}

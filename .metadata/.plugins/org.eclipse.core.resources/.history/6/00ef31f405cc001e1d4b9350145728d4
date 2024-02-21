@@ -1,0 +1,13 @@
+package com.BaseTest;
+
+import org.openqa.selenium.WebDriver;
+
+public class BaseTest {
+WebDriver driver;
+String applicationURLAddress="https://echoecho.com/htmlforms10.htm";
+
+public void setup()
+{
+	System.setProperty("webdriver.chrome.driver", "./BrowserDriverFiles/chromedriver.exe");
+}
+}

@@ -1,0 +1,307 @@
+[main] INFO Log - ChromeBrowser Launched Successfully
+[main] INFO Log - Successfully Provide OrangeHrm application Url Address on the browser
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log - ChromeBrowser Launched Successfully
+[main] INFO Log - Successfully Provide OrangeHrm application Url Address on the browser
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log - ChromeBrowser Launched Successfully
+[main] INFO Log - Successfully Provide OrangeHrm application Url Address on the browser
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to identify to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log - ChromeBrowser Launched Successfully
+[main] INFO Log - Successfully Provide OrangeHrm application Url Address on the browser
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to identify to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log - ChromeBrowser Launched Successfully
+[main] INFO Log - Successfully Provide OrangeHrm application Url Address on the browser
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully identify the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- Orange HRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Fail to Navigated to the OrangeHRM Login Page Title :- FAIL
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  **** Chrome Browser Launched Successfully ********** 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application LogIn Page 
+[main] INFO Log - Expected OrangeHRM Title is :- OrangeHRM
+[main] INFO Log - Actual Orange HRM Title is :-OrangeHRM
+[main] INFO Log - Successfully Navigated to the OrangeHRM Login Page Title :- PASS
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log -  **** Browser Closed With Application Successfully ********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS
+[main] INFO Log - *********** chrome Browser got closed **********
+[main] INFO Log -  *** Chrome Browser launched Successfully *****
+[main] INFO Log - ###########ChromeBrowser launched successfully##############
+[main] INFO Log - Successfully navigated to OrangeHRM Application URL Address on the Browser
+[main] INFO Log - The expected orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - The actual orangeHRM Application home page title is :-OrangeHRM
+[main] INFO Log - succesfully navigated to home page Title-PASS

@@ -1,0 +1,30 @@
+#OrangeHrm Application LoginPanel Element property with id locator
+orangeHrmLogInPagePanelProperty=logInPanelHeading
+
+#OrangeHrm Application UserName Element property with id locator
+#  KEY
+orangeHrmLogInPageUserNameProperty=txtUsername
+
+# OrangeHrm Application Password Element property with id locator
+orangeHrmLogInPagePasswordProperty=txtPassword
+
+# OrangeHrm Application LogInButton Element property with id locator
+orangeHrmLogInPageLogInButtonProperty=button
+
+# OrangeHrm Application PIM Element property with id locator
+orangeHrmHomePagePIMProperty=menu_pim_viewPimModule
+
+# OrangeHrm Application PIM AddEmployee Element property with id locator
+orangeHrmHomePagePIMAddEmployeeProperty=menu_pim_addEmployee
+
+# OrangeHrm Application  AddEmployee FirstName Element property with id locator
+orangeHrmAddEmployeePageFirtstNameProperty=firstName
+
+# OrangeHrm Application  AddEmployee SaveButton Element property with id locator
+orangeHrmAddEmployeePageSaveButtonProperty=btnSave
+
+# OrangeHrm Application HomePage WelComeAdmin Element property with id locator
+orangeHrmHomePageWelcomeAdminProperty=Admin
+
+# OrangeHrm Application HomePage LogOut Element property with LinkText locator
+orangeHrmHomePageLogOutProperty=Logout

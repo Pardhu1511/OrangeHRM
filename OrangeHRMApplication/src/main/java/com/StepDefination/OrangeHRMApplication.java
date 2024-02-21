@@ -1,0 +1,59 @@
+package com.StepDefination;
+
+import java.sql.Driver;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.Utility.Log;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMApplication {
+WebDriver driver;
+String applicationURLAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+
+@Given("User Should open Browser in the system")
+public void user_should_open_browser_in_the_system()
+{System.setProperty("webdriver.chrome.driver", "./BrowserDriverFiles/chromedriver.exe");
+driver = new ChromeDriver();
+Log.info("ChromeBrowser Launched Successfully");
+
+
+}
+
+@When("User enters OrangeHRM application URL Address")
+public void user_enters_orange_hrm_application_url_address()
+{driver.get(applicationURLAddress);
+	Log.info("Successfully Provide OrangeHrm application Url Address on the browser");
+	driver.manage().window().maximize();
+}
+
+@Then("User should be Navigated to the OrangeHRM loginPage")
+public void user_should_be_navigated_to_the_orange_hrm_login_page() 
+{
+	String expected_OrangeHRMloginPageTitle="Orange HRM";
+	Log.info("Expected OrangeHRM Title is :- "+expected_OrangeHRMloginPageTitle);
+	String actual_OrangeHRMloginPageTitle=driver.getTitle();
+	Log.info("Actual Orange HRM Title is :-"+actual_OrangeHRMloginPageTitle);
+	if(actual_OrangeHRMloginPageTitle.equals(expected_OrangeHRMloginPageTitle))
+	{
+	Log.info("Successfully Navigated to the OrangeHRM Login Page Title :- PASS");	
+	}
+	else {
+		Log.info("Fail to Navigated to the OrangeHRM Login Page Title :- FAIL");
+	}
+}
+
+@Then("User should close the OrangeHRM application Along with Browser")
+public void user_should_close_the_orange_hrm_application_along_with_browser() 
+{
+	
+}
+
+
+
+
+}
